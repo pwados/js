@@ -1,0 +1,21 @@
+{
+  "name": "DOSBox PWA",
+  "short_name": "DOSBox",
+  "description": "Run and upload files in a DOS environment.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
